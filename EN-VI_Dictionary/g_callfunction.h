@@ -58,7 +58,7 @@ void auto_complete(GtkWidget* widget, gpointer soundexTree){
 
 void make_about_us_dialog() {
 	about_us_dialog = gtk_about_dialog_new();
-	gtk_about_dialog_set_program_name(GTK_ABOUT_DIALOG(about_us_dialog), "Englist-Vietnamese Dictionary");
+	gtk_about_dialog_set_program_name(GTK_ABOUT_DIALOG(about_us_dialog), "English-Vietnamese Dictionary");
 	gtk_about_dialog_set_version(GTK_ABOUT_DIALOG(about_us_dialog), "C-Advance 20182");
 	gtk_about_dialog_set_copyright(GTK_ABOUT_DIALOG(about_us_dialog), "DHBK HN");
 	
