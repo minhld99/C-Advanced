@@ -9,7 +9,7 @@
 Crawl from Hanoi Bus official [website](http://timbus.vn/fleets.aspx). We only do test on a small amount of routes and leave the generalization for future.
 ## 2. EN-VI Dictionary:
 #### 2.1. Techniques:
-- Referrence to `GTK+` from [Gnome](https://developer.gnome.org) for graphical interface.
+- Reference to `GTK+` from [Gnome](https://developer.gnome.org) for graphical interface.
 - `B-Tree lib` allows find / add / edit / delete.
   - Why B-Tree: 
   ```
