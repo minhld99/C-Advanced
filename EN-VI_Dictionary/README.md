@@ -1,11 +1,15 @@
-1. How to run:
+#  EN-VI Dictionary with graphical interface 
+### How to run:
 ```
    $ cd “/path/project”
    $ make
 ```
-2. Source code description
-   2 main component: "gtk_interface.c" and "g_callfunction.h”
+### Source code description: (2 main component)
+   <br/> "gtk_interface.c"
 ```
-   "gtk_interface.c" contains main() and interface, b-tree, sounded tree initialization functions.
-   "g_callfunction.h" contains functions to perform add, edit, delete on b-tree, interface widget.
+   Including main() and interface, b-tree, soundex tree initialization functions.
+```
+   <br/> "g_callfunction.h”
+```
+   Functions to perform add, edit, delete on b-tree, interface widget.
 ```
