@@ -1,5 +1,5 @@
 
-#include"g_callfunction.h"
+#include "g_callfunction.h"
 
 GtkWidget *searchFrame, *inputBox, *meaningBox, *navigation, *addButton, *editButton, *infoButton, *deleteButton, *searchButton, *scroll;
 GtkWidget *window;

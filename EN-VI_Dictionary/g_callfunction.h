@@ -1,7 +1,7 @@
-#include<gtk/gtk.h>
-#include<string.h>
-#include"btree.h"
-#include"soundex.h"
+#include <gtk/gtk.h>
+#include <string.h>
+#include "btree.h"
+#include "soundex.h"
 
 GtkWidget *textView, *window;
 GtkWidget *textSearch;
